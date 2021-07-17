@@ -13,6 +13,7 @@ Disusun oleh kelompok 1 :
 Berikut link website Aplikasi Data Pasien Covid-19 : https://uaspemrogramanwebkelompok1.000webhostapp.com/
 
 Username	: kelompok_1
+
 Password	: admin
 
 Pembuatan Aplikasi Data Pasien Covid-19 ini bertujuan untuk memenuhi UAS kami pada mata kuliah Pemrograman Web 2 , dan dosen pengampu yaitu Bapak Sonasa Rinusantoro S.Kom., M.A., terimakasih kami ucapkan kepada bapak dosen, karena atas bimbingan nya selama perkuliahan online di semester 6 ini kami dapat membuat aplikasi yang bermanfaat seperti ini dengan menggunakan bahasa pemrograman PHP dan basis data menggunakan MySql. Semoga kami dapat mengembangkan aplikasi sederhana ini nanti nya.
